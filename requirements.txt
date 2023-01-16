@@ -1,0 +1,6 @@
+psutil
+requests
+os
+json
+streamlit
+base64
