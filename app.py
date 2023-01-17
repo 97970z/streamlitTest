@@ -4,7 +4,6 @@ import psutil as u
 import json as j
 import base64 as b
 import streamlit as st
-from tkinter import filedialog
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
